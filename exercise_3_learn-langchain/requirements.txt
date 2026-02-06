@@ -1,0 +1,14 @@
+# Core LangChain
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-ollama>=0.1.0
+langchain-community>=0.0.10
+
+# For the Streamlit web app
+streamlit>=1.30.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# For the Wikipedia agent
+wikipedia-api>=0.6.0

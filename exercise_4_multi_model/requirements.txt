@@ -1,0 +1,17 @@
+# Backend dependencies
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# Model provider SDKs
+groq
+huggingface-hub
+ollama
+
+# Frontend
+streamlit
+
+# HTTP client
+httpx
+requests

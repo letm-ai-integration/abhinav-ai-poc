@@ -1,0 +1,24 @@
+# Sample Documents for RAG System
+# Each paragraph is a separate "document" that can be added to the knowledge base
+
+Python was created by Guido van Rossum and first released in 1991. It is known for its simple, readable syntax that emphasizes code clarity. Python uses indentation to define code blocks instead of curly braces.
+
+JavaScript was created by Brendan Eich in just 10 days while working at Netscape in 1995. Originally called Mocha, then LiveScript, it was renamed JavaScript as a marketing strategy. Despite the name, it has no relation to Java.
+
+Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed. It uses algorithms to find patterns in data and make predictions or decisions.
+
+Deep learning is a type of machine learning based on artificial neural networks. It excels at tasks like image recognition, natural language processing, and speech recognition. Popular frameworks include TensorFlow and PyTorch.
+
+Python is the most popular language for machine learning and data science. Libraries like NumPy, Pandas, scikit-learn, and TensorFlow make it easy to work with data and build ML models.
+
+The transformer architecture was introduced in the 2017 paper "Attention Is All You Need" by researchers at Google. It revolutionized natural language processing and is the foundation for models like GPT and BERT.
+
+Large Language Models (LLMs) are AI systems trained on vast amounts of text data. They can understand and generate human-like text, answer questions, write code, and perform many other language tasks.
+
+RAG (Retrieval-Augmented Generation) combines the power of large language models with information retrieval. Instead of relying solely on training data, RAG systems retrieve relevant information from a knowledge base to inform their responses.
+
+Vector embeddings represent text as numerical vectors in a high-dimensional space. Similar texts have similar embeddings, enabling semantic search that finds related content even without exact keyword matches.
+
+OpenAI's GPT (Generative Pre-trained Transformer) series includes GPT-3, GPT-4, and other models. These models are trained to predict the next token in a sequence and can be fine-tuned for specific tasks.
+
+Anthropic was founded in 2021 by former OpenAI researchers. The company developed Claude, an AI assistant designed to be helpful, harmless, and honest. Claude is trained using a technique called Constitutional AI.
