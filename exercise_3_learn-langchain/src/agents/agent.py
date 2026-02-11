@@ -20,7 +20,7 @@ def get_word_count(text: str) -> int:
 
 
 @tool
-def get_current_time() -> str:
+def get_current_times() -> str:
     """Get the current date and time."""
     from datetime import datetime
     return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -40,7 +40,7 @@ def calculate(expression: str) -> str:
 def create_simple_agent():
     tools = [
         get_word_count,
-        get_current_time,
+        get_current_times,
         calculate
     ]
 

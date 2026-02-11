@@ -13,7 +13,7 @@ from langchain_classic.chains import ConversationChain
 from langchain_classic.memory import (
     ConversationBufferMemory,
     ConversationSummaryMemory,
-    ConversationBufferWindowMemory #
+    ConversationBufferWindowMemory
 )
 
 
@@ -134,10 +134,10 @@ if __name__ == "__main__":
 
     
     try:
-        # demo_buffer_memory()
+        demo_buffer_memory()
         # demo_window_memory()
         # demo_summary_memory()
-        demo_custom_chain_with_memory()
+        # demo_custom_chain_with_memory()
         
     except Exception as e:
         print(f"Error: {e}")
